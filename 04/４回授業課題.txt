@@ -1,0 +1,5 @@
+hkd.html
+tky.html
+osk.html
+fko.html
+okn.html
